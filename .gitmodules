@@ -10,3 +10,6 @@
 [submodule "shell"]
 	path = shell
 	url = https://github.com/tlvince/shell-config.git
+[submodule "osx"]
+	path = osx
+	url = http://github.com/tlvince/osx-config.git
