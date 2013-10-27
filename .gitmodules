@@ -7,3 +7,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/tlvince/zsh-config.git
+[submodule "shell"]
+	path = shell
+	url = https://github.com/tlvince/shell-config.git
