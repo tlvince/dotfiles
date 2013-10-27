@@ -16,3 +16,6 @@
 [submodule "irssi"]
 	path = irssi
 	url = https://github.com/tlvince/irssi-config.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/tlvince/vim-config.git
