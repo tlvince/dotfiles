@@ -13,3 +13,6 @@
 [submodule "osx"]
 	path = osx
 	url = http://github.com/tlvince/osx-config.git
+[submodule "irssi"]
+	path = irssi
+	url = https://github.com/tlvince/irssi-config.git
