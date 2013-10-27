@@ -1,0 +1,6 @@
+[submodule "tmux"]
+	path = tmux
+	url = https://github.com/tlvince/tmux-config.git
+[submodule "git"]
+	path = git
+	url = http://github.com/tlvince/git-config.git
