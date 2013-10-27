@@ -4,3 +4,6 @@
 [submodule "git"]
 	path = git
 	url = http://github.com/tlvince/git-config.git
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/tlvince/zsh-config.git
