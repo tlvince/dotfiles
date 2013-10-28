@@ -22,3 +22,6 @@
 [submodule "irssi/.irssi"]
 	path = irssi/.irssi
 	url = https://github.com/tlvince/irssi-config.git
+[submodule "newsbeuter/.newsbeuter"]
+	path = newsbeuter/.newsbeuter
+	url = https://github.com/tlvince/newsbeuter-config.git
