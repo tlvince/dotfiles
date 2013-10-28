@@ -19,3 +19,6 @@
 [submodule "mutt/.mutt"]
 	path = mutt/.mutt
 	url = https://github.com/tlvince/mutt-config.git
+[submodule "irssi/.irssi"]
+	path = irssi/.irssi
+	url = https://github.com/tlvince/irssi-config.git
