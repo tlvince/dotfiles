@@ -19,6 +19,3 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/tlvince/vim-config.git
-[submodule "mutt"]
-	path = mutt
-	url = https://github.com/tlvince/mutt-config.git
