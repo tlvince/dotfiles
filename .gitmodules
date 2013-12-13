@@ -25,3 +25,6 @@
 [submodule "newsbeuter/.newsbeuter"]
 	path = newsbeuter/.newsbeuter
 	url = https://github.com/tlvince/newsbeuter-config.git
+[submodule "pandoc/.pandoc/templates"]
+	path = pandoc/.pandoc/templates
+	url = https://github.com/tlvince/pandoc-templates.git
