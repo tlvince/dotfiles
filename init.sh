@@ -16,7 +16,7 @@ _have "stow" || _error "Requires 'stow'"
 packages="$@"
 [ "$packages" ] || packages=$(echo $DOTFILES/*/ | sed "s_$DOTFILES/__g")
 
-ignores='^.git(modules|ignore|keep)$|readme.m(d|kd)|.DS_Store|init.sh|.brew|.cask'
+ignores='^.git(modules|ignore|keep)$|readme.m(d|kd)|.DS_Store|init.sh|.brew|.cask|.swp'
 stow="stow --verbose --dir="$DOTFILES" --target="$HOME" --ignore="$ignores""
 
 $stow --simulate $packages
