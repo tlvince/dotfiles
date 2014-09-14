@@ -35,3 +35,6 @@ rules:
   no-unused-vars:
     - 2
     - {vars: all, args: all}
+  space-in-brackets:
+    - 2
+    - never
