@@ -12,9 +12,9 @@ Pattern History List=,[date:yyyyMMdd-hhmmss]{unique:2}.[ext]{lower},20120401-[da
 Options are expanded=true
 
 [Album Settings]
-Album Collections=Category,Friends,Holidays,Miscellaneous,Nature,Party,Todo,Travel
+Album Collections=,Category,Friends,Holidays,Miscellaneous,Nature,Party,Todo,Travel
 Album Sort Order=0
-Default Icon Size=135
+Default Icon Size=116
 Default Tree Icon Size=16
 Icon Show Aspect Ratio=false
 Icon Show Comments=false
@@ -77,13 +77,13 @@ ToolTips Show Video Frame Rate=true
 TreeView Font=Lucida Grande,13,-1,0,50,0,0,0,0,0
 
 [AlbumDB Settings]
-Recently Used Tags=359,2,12,139,17,62,338,371,39,370
+Recently Used Tags=379,190,123,76,39,42,161,378,359,139
 
 [AlbumFolderView Sidebar]
-CurrentIndex=793
-Expansion=0,469,1192,1193,1303,1304,1415,1416,1417,1173,1175,1177,1180,1181,1186,1189,1343,1340,1355,1381,1383,1,826,341,351,877,822,646,659,824,6,8,9,15,907,911,908,912,925,1016,1021,1034,1031,1206,1040,1197,1200,1041,1198,1042,1138,1209,1205,1290,1302,1207,1213,1214,1211,1298,1322,1373,1347,1371,1372,1421,403,404,405,434,540,962,970,971,973,981,985,566,793,1208,1017,567,568,756,1307,1412,1413,1361,1362,1364,1363,1366,1344,1351,1352,1353,1354,589,604,613,620,624,626,627,630,631,632,634,635,636,638,641,642,643,645,649,662,1426,1453,1455,1459,1465
+CurrentIndex=1480
+Expansion=0,1191,469,1296,1192,1193,1303,1304,1415,1416,1417,1171,1173,1175,1177,1180,1181,1186,1189,1343,1340,1355,1379,1380,1381,1383,1394,1396,1398,1543,1544,1,342,347,348,820,826,341,351,877,822,646,659,824,6,8,9,15,907,911,908,912,925,1016,1021,1034,1031,1206,1040,1197,1200,1041,1198,1042,1138,1209,1205,1290,1302,1207,1213,1214,1211,1298,1322,1541,1373,1347,1542,1371,1372,1421,1422,1467,1468,1470,1538,1539,1540,355,356,364,365,375,376,377,382,383,387,388,389,392,404,405,434,442,446,449,962,970,971,973,981,985,566,784,793,1208,1017,567,568,756,1307,1412,1413,1361,1362,1364,1365,1363,1344,1351,1352,1353,1354,1472,1474,1475,1476,1478,1479,1480,1481,1482,1483,578,589,599,600,601,603,604,605,606,607,609,611,613,614,615,616,618,620,624,626,627,628,630,631,632,634,635,636,637,638,641,642,643,645,647,649,650,652,662
 RestoreChecked=false
-Selection=793
+Selection=1480
 SortColumn=0
 SortOrder=0
 
@@ -252,9 +252,9 @@ Thumbnails Type=QSQLITE
 Thumbnails Username=
 
 [DateFolderView Sidebar]
-CurrentIndex=126
+CurrentIndex=5
 Expansion=
-Selection=126
+Selection=5
 SortColumn=0
 SortOrder=0
 
@@ -267,7 +267,7 @@ Minimized=false
 RestoreSize=-1
 
 [Digikam Right Sidebar]
-ActiveTab=4
+ActiveTab=1
 DigikamProperties Expanded=true
 FileProperties Expanded=true
 ImageProperties Expanded=true
@@ -279,13 +279,13 @@ VideoProperties Expanded=true
 
 [Digikam Right Sidebar][Captions Tags Properties Tab]
 Contact Expanded=true
-ImageDescEdit Tab=1
+ImageDescEdit Tab=2
 ImageDescEditTab CaptionsLang=x-default
 ImageDescEditTab SearchBarCaseSensitive=0
-ImageDescEditTab TagCheckViewCurrentIndex=37
-ImageDescEditTab TagCheckViewExpansion=0,32,84,360,104,37,80,16,146,295,78,45,75
+ImageDescEditTab TagCheckViewCurrentIndex=146
+ImageDescEditTab TagCheckViewExpansion=0,84,149,360,104,37,80,16,146,295,45,375,75,330
 ImageDescEditTab TagCheckViewRestoreChecked=false
-ImageDescEditTab TagCheckViewSelection=37
+ImageDescEditTab TagCheckViewSelection=146
 ImageDescEditTab TagCheckViewSortColumn=0
 ImageDescEditTab TagCheckViewSortOrder=0
 ImageDescEditTab TagCheckViewToggle Auto Tags=0
@@ -308,7 +308,7 @@ Web GPS Locator=0
 
 [Digikam Right Sidebar][GPS Properties Tab][Map Widget]
 Backend=marble
-Center=geo:35.680071195,139.768522398
+Center=geo:52.076392371,-2.365542018
 GoogleMaps Map Type=ROADMAP
 GoogleMaps Show Map Type Control=true
 GoogleMaps Show Navigation Control=true
@@ -392,6 +392,24 @@ Use Full CPU=true
 Application Style=
 Detection Accuracy=0.8
 
+[Find Duplicates View]
+AlbumComboBox-Checked=
+AlbumComboBox-CurrentIndex=
+AlbumComboBox-Expansion=
+AlbumComboBox-RestoreChecked=true
+AlbumComboBox-Selection=
+AlbumComboBox-SortColumn=0
+AlbumComboBox-SortOrder=0
+TagComboBox-Checked=
+TagComboBox-CurrentIndex=
+TagComboBox-Expansion=
+TagComboBox-RestoreChecked=true
+TagComboBox-Selection=
+TagComboBox-SortColumn=0
+TagComboBox-SortOrder=0
+UseWholePAlbumsEntry=true
+UseWholeTAlbumsEntry=true
+
 [Fuzzy Search Sidebar]
 CurrentIndex=
 Expansion=
@@ -422,7 +440,7 @@ SplitterState=AAAA/wAAAAAAAAACAAABcgAAAN4BAAAABgEAAAAC
 
 [GPS Search Sidebar][GPSSearch Map Widget]
 Backend=googlemaps
-Center=geo:53.7487107969,-106.358642578
+Center=geo:53.7487107969,-106.193847656
 GoogleMaps Map Type=ROADMAP
 GoogleMaps Show Map Type Control=false
 GoogleMaps Show Navigation Control=false
@@ -455,7 +473,7 @@ FullScreen Hide ThumbBar=true
 FullScreen Hide ToolBars=false
 Height 1024=1022
 Height 1080=1078
-Height 768=718
+Height 768=720
 Height 800=798
 MenuBar=Disabled
 Scan At Start=true
@@ -469,7 +487,7 @@ Use Trash=false
 Version=2.0.0
 Width 1024=1022
 Width 1280=1278
-Width 1366=1364
+Width 1366=1366
 Width 1920=1918
 
 [General Settings][Toolbar mainToolBar]
@@ -526,6 +544,7 @@ FullScreen Hide ToolBars=false
 FullScreenHideThumbBar=true
 Height 1024=1022
 Height 1080=1078
+Height 768=769
 Height 800=798
 JPEG2000Compression=75
 JPEG2000LossLess=true
@@ -559,8 +578,8 @@ SlideShowPrintMakeModel=false
 SlideShowPrintName=false
 SlideShowPrintTitle=false
 SlideShowStartCurrent=false
-SplitterState=AAAA/wAAAAAAAAACAAADOQAAASoBAAAABgAAAAAB
-State=AAAA/wAAAAD9AAAAAAAABP4AAALBAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+SplitterState=AAAA/wAAAAAAAAACAAAD7AAAASoBAAAABgAAAAAB
+State=AAAA/wAAAAD9AAAAAAAABVYAAAKOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 TIFFCompression=false
 ToolBarsMovable=Disabled
 Unclip Color=0
@@ -574,6 +593,7 @@ UseThemeBackgroundColor=true
 White Balance=1
 White Point=0
 Width 1280=1278
+Width 1366=1367
 Width 1920=1918
 caBlueMultiplier=0
 caRedMultiplier=0
@@ -665,12 +685,12 @@ IconSize=16
 [ImageViewer Thumbbar]
 Height 1024=936
 Height 1080=985
-Height 768=30
+Height 768=654
 Height 800=30
-State=AAAA/wAAAAD9AAAAAQAAAAAAAAB1AAACwfwCAAAAAfsAAAAeAGUAZABpAHQAbwByAF8AdABoAHUAbQBiAGIAYQByAAAAAAAAAALBAAAASwD///8AAAM9AAACwQAAAAQAAAAEAAAACAAAAAj8AAAAAA==
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAB1AAACjvwCAAAAAfsAAAAeAGUAZABpAHQAbwByAF8AdABoAHUAbQBiAGIAYQByAAAAAAAAAAKOAAAASwD///8AAAOWAAACjgAAAAQAAAAEAAAACAAAAAj8AAAAAA==
 ToolBarsMovable=Disabled
 Width 1280=0
-Width 1366=0
+Width 1366=1036
 Width 1920=1592
 
 [Import Filters]
@@ -727,7 +747,8 @@ Height 1024=420
 Height 1080=420
 Height 768=480
 Height 800=497
-Recent Files[$e]=pattaya,/tmp/bangkok,/tmp/pattaya
+Recent Files[$e]=pattaya,$HOME/Applications/GIMP.app/Contents/MacOS/GIMP,$HOME/Pictures/photos
+Recent URLs[$e]=$HOME/Pictures/,$HOME/Applications/GIMP.app/Contents/MacOS/,$HOME/Applications/GIMP.app/Contents/
 Width 1280=793
 Width 1366=768
 Width 1920=672
@@ -978,9 +999,9 @@ Width 1366=44
 Width 1920=1874
 
 [MainWindow]
-InitialAlbumID=793
-SplitterState=AAAA/wAAAAAAAAADAAABDgAAAuAAAAEoAQAAAAYAAAAAAQ==
-ThumbbarState=AAAA/wAAAAD9AAAAAQAAAAAAAACoAAACqvwCAAAAAfsAAAAmAG0AYQBpAG4AdwBpAG4AZABvAHcAXwB0AGgAdQBtAGIAYgBhAHIAAAAAAAAAAqoAAABbAP///wAAAuAAAAKqAAAABAAAAAQAAAAIAAAACPwAAAAA
+InitialAlbumID=1480
+SplitterState=AAAA/wAAAAAAAAADAAABDgAABA4AAAEoAQAAAAYAAAAAAQ==
+ThumbbarState=AAAA/wAAAAD9AAAAAQAAAAAAAACDAAAC0PwCAAAAAfsAAAAmAG0AYQBpAG4AdwBpAG4AZABvAHcAXwB0AGgAdQBtAGIAYgBhAHIAAAAAAAAAAtAAAABbAP///wAAAuAAAALQAAAABAAAAAQAAAAIAAAACPwAAAAA
 
 [MaintenanceDlg Settings]
 AlbumComboBox-Checked=
@@ -1054,13 +1075,13 @@ DontAskAgainToDeleteItemsFromCamera=false
 
 [Open-with settings]
 CompletionMode=5
-History=/usr/bin/qtractor,mplayer
+History=/Users/tom/Applications/GIMP.app/Contents/MacOS/GIMP %u,dolphin %i -caption %c %u,kfind %u,/Users/tom/Applications/GIMP.app/Contents/MacOS/GIMP,/usr/bin/qtractor,mplayer
 
 [People Sidebar]
-CurrentIndex=39
+CurrentIndex=218
 Expansion=16,207,39,28,218,219,117,222,223,202,273,52,230,27,233,234,19,40,17
 RestoreChecked=false
-Selection=39
+Selection=218
 SortColumn=0
 SortOrder=0
 
@@ -1074,10 +1095,10 @@ CaseSensitive=0
 collectionlocation[$e]=file://$HOME/archive/pictures,file://$HOME/pictures/business,file://$HOME/pictures
 
 [Search Sidebar]
-CurrentIndex=
+CurrentIndex=5
 Expansion=
 RestoreChecked=false
-Selection=
+Selection=5
 SortColumn=0
 SortOrder=1
 
@@ -1109,10 +1130,10 @@ TypeGeolocationFilter Expanded=true
 TypeMimeFilter Expanded=true
 
 [TagView Sidebar]
-CurrentIndex=273
-Expansion=0,127,331,137,260,80,173,144,145,320,321,298,350,351,352,257,156,157,57,16,218,219,117,220,196,209,221,178,66,273,230,53,19,281,238,17,357,146,109,143,282,284,283,132,134,133,78,87,266,89,176,79,193,192,356,45,276,280,180,125,126,341,342,88,354,47,316,317,75,274,77,200,322,323
+CurrentIndex=76
+Expansion=0,340,153,32,83,237,86,162,33,366,90,94,98,100,101,127,360,331,137,260,80,173,144,145,35,159,320,321,298,350,351,352,257,258,156,157,57,16,204,62,43,269,207,39,142,211,249,217,28,218,219,117,220,196,209,221,178,202,225,42,66,273,230,53,233,234,82,19,40,238,17,357,109,143,282,284,283,132,134,133,78,87,266,89,176,79,193,203,192,356,45,276,280,180,125,126,341,342,88,354,254,255,47,302,316,317,75,274,290,330,71,140,76,77,339,200,336,322,323
 RestoreChecked=false
-Selection=273
+Selection=76
 SortColumn=0
 SortOrder=0
 
@@ -1296,33 +1317,33 @@ Guide Lines Type=0
 Guide Width=1
 Histogram Channel=0
 Histogram Scale=1
-Hor.Oriented Aspect Ratio=10
+Hor.Oriented Aspect Ratio=14
 Hor.Oriented Aspect Ratio Orientation=0
 Hor.Oriented Custom Aspect Ratio Den=1
-Hor.Oriented Custom Aspect Ratio Height=509
+Hor.Oriented Custom Aspect Ratio Height=864
 Hor.Oriented Custom Aspect Ratio Num=1
-Hor.Oriented Custom Aspect Ratio Width=914
-Hor.Oriented Custom Aspect Ratio Xpos=183
-Hor.Oriented Custom Aspect Ratio Ypos=125
+Hor.Oriented Custom Aspect Ratio Width=1296
+Hor.Oriented Custom Aspect Ratio Xpos=648
+Hor.Oriented Custom Aspect Ratio Ypos=432
 Precise Aspect Ratio Crop=false
-Ver.Oriented Aspect Ratio=4
+Ver.Oriented Aspect Ratio=14
 Ver.Oriented Aspect Ratio Orientation=1
 Ver.Oriented Custom Aspect Ratio Den=1
-Ver.Oriented Custom Aspect Ratio Height=4200
+Ver.Oriented Custom Aspect Ratio Height=2509
 Ver.Oriented Custom Aspect Ratio Num=1
-Ver.Oriented Custom Aspect Ratio Width=3360
-Ver.Oriented Custom Aspect Ratio Xpos=96
-Ver.Oriented Custom Aspect Ratio Ypos=542
+Ver.Oriented Custom Aspect Ratio Width=1684
+Ver.Oriented Custom Aspect Ratio Xpos=0
+Ver.Oriented Custom Aspect Ratio Ypos=62
 
 [autocorrection Tool]
-Auto Correction Filter=0
+Auto Correction Filter=4
 Histogram Channel=0
 Histogram Scale=1
 
 [bcgadjust Tool]
-BrightnessAdjustment=-0.072
-ContrastAdjustment=1.24
-GammaAdjustment=1.26
+BrightnessAdjustment=-0.028
+ContrastAdjustment=0.96
+GammaAdjustment=1.13
 Histogram Channel=0
 Histogram Scale=1
 
@@ -1477,7 +1498,7 @@ WhitePoint_2=0
 WhitePoint_3=0
 
 [freerotation Tool]
-Anti Aliasing=true
+Anti Aliasing=false
 Auto Crop Type=0
 AutoAdjustContainer Expanded=true
 SettingsContainer Expanded=true
@@ -1492,9 +1513,9 @@ Last Black Frame File=
 [hsladjust Tool]
 Histogram Channel=0
 Histogram Scale=1
-HueAdjustment=0
-LighnessAdjustment=-1
-SaturationAdjustment=100
+HueAdjustment=-2
+LighnessAdjustment=-10.2
+SaturationAdjustment=-40.8
 VibranceAdjustment=100
 
 [import_mapwidgetview]
@@ -1564,7 +1585,7 @@ HighSaturation=100
 Histogram Channel=0
 Histogram Scale=0
 LowSaturation=100
-Power1=30
+Power1=0
 Power2=30
 Power3=30
 Power4=30
@@ -1602,6 +1623,34 @@ Show numbers on items=true
 Thumbnail Grouping Radius=30
 Thumbnail Size=59
 Zoom=googlemaps:5
+
+[mainwindow_tableview]
+Grouping mode=2
+
+[mainwindow_tableview][Current Profile]
+Column Count=5
+Header State=\x00\x00\x00ˇ\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x05\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01Ù\x00\x00\x00\x05\x01\x01\x00\x01\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00dˇˇˇˇ\x00\x00\x00Å\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x01Ù\x00\x00\x00\x05\x00\x00\x00\x00
+Profile Name=
+
+[mainwindow_tableview][Current Profile][Column 0]
+Column Id=thumbnail
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 1]
+Column Id=filename
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 2]
+Column Id=digikam-rating
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 3]
+Column Id=itemcreationdatetime
+NSettings=0
+
+[mainwindow_tableview][Current Profile][Column 4]
+Column Id=digikam-title
+NSettings=0
 
 [perspective Tool]
 Draw Grid=false
