@@ -39,3 +39,7 @@ rules:
   operator-assignment:
     - 2
     - always
+  indent:
+    - 2
+    - 2
+  space-before-function-parentheses: never
