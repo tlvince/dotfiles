@@ -1,0 +1,52 @@
+/Users/tom/.DS_Store
+/Users/tom/.Trash
+/Users/tom/.cache
+/Users/tom/.npm
+/Users/tom/.z.*
+/Users/tom/Downloads
+/Users/tom/Library/Application Support/Chromium/Profile 1/Application Cache
+/Users/tom/Library/Application Support/Chromium/Profile 1/Favicons
+/Users/tom/Library/Application Support/Chromium/Profile 1/Favicons-journal
+/Users/tom/Library/Application Support/Chromium/Profile 1/History
+/Users/tom/Library/Application Support/Chromium/Profile 1/History-journal
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Bloom
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Bloom Prefix Set
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Csd Whitelist
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Download
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Download Whitelist
+/Users/tom/Library/Application Support/Chromium/Safe Browsing Extension Blacklist
+/Users/tom/Library/Application Support/Chromium/Safe Browsing IP Blacklist
+/Users/tom/Library/Application Support/Chromium/Safe Browsing UwS List
+/Users/tom/Library/Application Support/Chromium/Safe Browsing UwS List Prefix Set
+/Users/tom/Library/Application Support/SyncServices/data.version
+/Users/tom/Library/Application Support/Ubiquity
+/Users/tom/Library/Caches
+/Users/tom/Library/Calendars/Calendar Cache
+/Users/tom/Library/LanguageModeling/de-dynamic.lm
+/Users/tom/Library/LanguageModeling/en-dynamic.lm
+/Users/tom/Library/LanguageModeling/es-dynamic.lm
+/Users/tom/Library/LanguageModeling/fr-dynamic.lm
+/Users/tom/Library/LanguageModeling/it-dynamic.lm
+/Users/tom/Library/LanguageModeling/nl-dynamic.lm
+/Users/tom/Library/LanguageModeling/pt-dynamic.lm
+/Users/tom/Library/LanguageModeling/sv-dynamic.lm
+/Users/tom/Library/LanguageModeling/tr-dynamic.lm
+/Users/tom/Library/Logs
+/Users/tom/Library/Mail/AvailableFeeds
+/Users/tom/Library/Mail/Envelope Index
+/Users/tom/Library/Mail/Envelope Index-journal
+/Users/tom/Library/Mail/Metadata/BackingStoreUpdateJournal
+/Users/tom/Library/Mail/V2/MailData/AvailableFeeds
+/Users/tom/Library/Mail/V2/MailData/BackingStoreUpdateJournal
+/Users/tom/Library/Mail/V2/MailData/Envelope Index
+/Users/tom/Library/Mail/V2/MailData/Envelope Index-journal
+/Users/tom/Library/Mail/V2/MailData/Envelope Index-shm
+/Users/tom/Library/Mail/V2/MailData/Envelope Index-wal
+/Users/tom/Library/Mirrors
+/Users/tom/Library/PubSub/Database
+/Users/tom/Library/PubSub/Downloads
+/Users/tom/Library/PubSub/Feeds
+/Users/tom/Library/Safari/HistoryIndex.sk
+/Users/tom/Library/Safari/Icons.db
+/Users/tom/Library/Safari/WebpageIcons.db
+/Users/tom/Pictures/Aperture Library.aplibrary/Thumbnails
