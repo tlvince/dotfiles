@@ -1,3 +1,13 @@
+*.pyc
+*.DS_Store
+*.AppleDouble
+*.LSOverride
+*.DocumentRevisions-V100
+*.fseventsd
+*.Spotlight-V100
+*.TemporaryItems
+*.Trashes
+*.VolumeIcon.icns
 /Users/*/.Trash
 /Users/*/.cache
 /Users/*/.npm
@@ -49,13 +59,3 @@
 /Users/*/Library/Safari/Icons.db
 /Users/*/Library/Safari/WebpageIcons.db
 /Users/*/Pictures/Aperture Library.aplibrary/Thumbnails
-*.pyc
-*.DS_Store
-*.AppleDouble
-*.LSOverride
-*.DocumentRevisions-V100
-*.fseventsd
-*.Spotlight-V100
-*.TemporaryItems
-*.Trashes
-*.VolumeIcon.icns
