@@ -1,54 +1,54 @@
-/Users/tom/.Trash
-/Users/tom/.cache
-/Users/tom/.npm
-/Users/tom/.z.*
-/Users/tom/Downloads
-/Users/tom/Library/Application Support/Chromium/Profile 1/Application Cache
-/Users/tom/Library/Application Support/Chromium/Profile 1/Favicons
-/Users/tom/Library/Application Support/Chromium/Profile 1/Favicons-journal
-/Users/tom/Library/Application Support/Chromium/Profile 1/History
-/Users/tom/Library/Application Support/Chromium/Profile 1/History-journal
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Bloom
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Bloom Prefix Set
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Csd Whitelist
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Download
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Download Whitelist
-/Users/tom/Library/Application Support/Chromium/Safe Browsing Extension Blacklist
-/Users/tom/Library/Application Support/Chromium/Safe Browsing IP Blacklist
-/Users/tom/Library/Application Support/Chromium/Safe Browsing UwS List
-/Users/tom/Library/Application Support/Chromium/Safe Browsing UwS List Prefix Set
-/Users/tom/Library/Application Support/SyncServices/data.version
-/Users/tom/Library/Application Support/Ubiquity
-/Users/tom/Library/Caches
-/Users/tom/Library/Calendars/Calendar Cache
-/Users/tom/Library/LanguageModeling/de-dynamic.lm
-/Users/tom/Library/LanguageModeling/en-dynamic.lm
-/Users/tom/Library/LanguageModeling/es-dynamic.lm
-/Users/tom/Library/LanguageModeling/fr-dynamic.lm
-/Users/tom/Library/LanguageModeling/it-dynamic.lm
-/Users/tom/Library/LanguageModeling/nl-dynamic.lm
-/Users/tom/Library/LanguageModeling/pt-dynamic.lm
-/Users/tom/Library/LanguageModeling/sv-dynamic.lm
-/Users/tom/Library/LanguageModeling/tr-dynamic.lm
-/Users/tom/Library/Logs
-/Users/tom/Library/Mail/AvailableFeeds
-/Users/tom/Library/Mail/Envelope Index
-/Users/tom/Library/Mail/Envelope Index-journal
-/Users/tom/Library/Mail/Metadata/BackingStoreUpdateJournal
-/Users/tom/Library/Mail/V2/MailData/AvailableFeeds
-/Users/tom/Library/Mail/V2/MailData/BackingStoreUpdateJournal
-/Users/tom/Library/Mail/V2/MailData/Envelope Index
-/Users/tom/Library/Mail/V2/MailData/Envelope Index-journal
-/Users/tom/Library/Mail/V2/MailData/Envelope Index-shm
-/Users/tom/Library/Mail/V2/MailData/Envelope Index-wal
-/Users/tom/Library/Mirrors
-/Users/tom/Library/PubSub/Database
-/Users/tom/Library/PubSub/Downloads
-/Users/tom/Library/PubSub/Feeds
-/Users/tom/Library/Safari/HistoryIndex.sk
-/Users/tom/Library/Safari/Icons.db
-/Users/tom/Library/Safari/WebpageIcons.db
-/Users/tom/Pictures/Aperture Library.aplibrary/Thumbnails
+/Users/*/.Trash
+/Users/*/.cache
+/Users/*/.npm
+/Users/*/.z.*
+/Users/*/Downloads
+/Users/*/Library/Application Support/Chromium/Profile 1/Application Cache
+/Users/*/Library/Application Support/Chromium/Profile 1/Favicons
+/Users/*/Library/Application Support/Chromium/Profile 1/Favicons-journal
+/Users/*/Library/Application Support/Chromium/Profile 1/History
+/Users/*/Library/Application Support/Chromium/Profile 1/History-journal
+/Users/*/Library/Application Support/Chromium/Safe Browsing Bloom
+/Users/*/Library/Application Support/Chromium/Safe Browsing Bloom Prefix Set
+/Users/*/Library/Application Support/Chromium/Safe Browsing Csd Whitelist
+/Users/*/Library/Application Support/Chromium/Safe Browsing Download
+/Users/*/Library/Application Support/Chromium/Safe Browsing Download Whitelist
+/Users/*/Library/Application Support/Chromium/Safe Browsing Extension Blacklist
+/Users/*/Library/Application Support/Chromium/Safe Browsing IP Blacklist
+/Users/*/Library/Application Support/Chromium/Safe Browsing UwS List
+/Users/*/Library/Application Support/Chromium/Safe Browsing UwS List Prefix Set
+/Users/*/Library/Application Support/SyncServices/data.version
+/Users/*/Library/Application Support/Ubiquity
+/Users/*/Library/Caches
+/Users/*/Library/Calendars/Calendar Cache
+/Users/*/Library/LanguageModeling/de-dynamic.lm
+/Users/*/Library/LanguageModeling/en-dynamic.lm
+/Users/*/Library/LanguageModeling/es-dynamic.lm
+/Users/*/Library/LanguageModeling/fr-dynamic.lm
+/Users/*/Library/LanguageModeling/it-dynamic.lm
+/Users/*/Library/LanguageModeling/nl-dynamic.lm
+/Users/*/Library/LanguageModeling/pt-dynamic.lm
+/Users/*/Library/LanguageModeling/sv-dynamic.lm
+/Users/*/Library/LanguageModeling/tr-dynamic.lm
+/Users/*/Library/Logs
+/Users/*/Library/Mail/AvailableFeeds
+/Users/*/Library/Mail/Envelope Index
+/Users/*/Library/Mail/Envelope Index-journal
+/Users/*/Library/Mail/Metadata/BackingStoreUpdateJournal
+/Users/*/Library/Mail/V2/MailData/AvailableFeeds
+/Users/*/Library/Mail/V2/MailData/BackingStoreUpdateJournal
+/Users/*/Library/Mail/V2/MailData/Envelope Index
+/Users/*/Library/Mail/V2/MailData/Envelope Index-journal
+/Users/*/Library/Mail/V2/MailData/Envelope Index-shm
+/Users/*/Library/Mail/V2/MailData/Envelope Index-wal
+/Users/*/Library/Mirrors
+/Users/*/Library/PubSub/Database
+/Users/*/Library/PubSub/Downloads
+/Users/*/Library/PubSub/Feeds
+/Users/*/Library/Safari/HistoryIndex.sk
+/Users/*/Library/Safari/Icons.db
+/Users/*/Library/Safari/WebpageIcons.db
+/Users/*/Pictures/Aperture Library.aplibrary/Thumbnails
 *.pyc
 *.DS_Store
 *.AppleDouble
