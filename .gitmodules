@@ -13,9 +13,9 @@
 [submodule "osx"]
 	path = osx
 	url = http://github.com/tlvince/osx-config.git
-[submodule "vim"]
-	path = vim
-	url = https://github.com/tlvince/vim-config.git
+[submodule "neovim"]
+	path = neovim
+	url = https://github.com/tlvince/neovim-config.git
 [submodule "mutt/.mutt"]
 	path = mutt/.mutt
 	url = https://github.com/tlvince/mutt-config.git
