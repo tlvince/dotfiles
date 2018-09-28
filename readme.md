@@ -1,12 +1,21 @@
 # dotfiles
 
+Somewhat portable dotfiles organised via Git submodules.
+
 ## Usage
 
+Install [GNU Stow][], then:
+
 ```bash
-stow --simulate --verbose=3 \
-  --ignore="^.git(modules|ignore)$|readme.m(d|kd)|.DS_Store|init.sh" \
-  package ...
+export DOTFILES="$HOME/dotfiles"
+
+git clone --recurse-submodules https://github.com/tlvince/dotfiles.git "$DOTFILES"
+cd ~
+"$DOTFILES/init.sh"
 ```
+
+[GNU Stow]: https://www.gnu.org/software/stow/
+
 
 ## Author
 
